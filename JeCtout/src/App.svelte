@@ -14,7 +14,7 @@
 <main class="container">
     <SideBloc />
     <div class="bloc_img">
-        <img class="logo_img" src="/logo/JeCTout.jpg" alt="logo de l'application">
+        <img class="logo_img" src="/logo/JeCtout.jpg" alt="logo de l'application">
     </div>
 </main>
 <footer>
